@@ -5,7 +5,7 @@
 🚀 I build scalable web applications and tools that solve real problems, with a focus on clean architecture, strong testing, and meaningful collaboration.
 
 🌍 Based in Ontario, Canada | 💻 Working from home  
-🔗 Website: https://lakhveerbawa.com/ :contentReference[oaicite:1]{index=1}
+🔗 Website: https://lakhveerbawa.com/
 
 ---
 
@@ -15,11 +15,11 @@ Here are some standout projects I’ve built and maintain:
 
 ### ⭐ Featured Projects
 
-- **pinnacle** – Opinionated outcome-driven project management tool (NestJS, TypeScript, PostgreSQL, Kafka) :contentReference[oaicite:2]{index=2}  
-- **vidflow** – Backend + frontend for async video workflows (FastAPI, Go, Next.js) :contentReference[oaicite:3]{index=3}  
-- **nuxtjs-vue-vuetify-vue-test-utils-jest-sample-project** – Starter template with testing setup for Nuxt/Vue :contentReference[oaicite:4]{index=4}  
-- **laraveldock** – Docker-based Laravel development setup :contentReference[oaicite:5]{index=5}  
-- **realtor-saas** – Multi-tenant realtor SaaS with Filament and Stripe :contentReference[oaicite:6]{index=6}
+- **pinnacle** – Opinionated outcome-driven project management tool (NestJS, TypeScript, PostgreSQL, Kafka)  
+- **vidflow** – Backend + frontend for async video workflows (FastAPI, Go, Next.js)  
+- **nuxtjs-vue-vuetify-vue-test-utils-jest-sample-project** – Starter template with testing setup for Nuxt/Vue  
+- **laraveldock** – Docker-based Laravel development setup  
+- **realtor-saas** – Multi-tenant realtor SaaS with Filament and Stripe
 
 _(You can pin these on your GitHub profile for visibility)_
 
@@ -44,9 +44,9 @@ _(You can pin these on your GitHub profile for visibility)_
 ## 📫 How to Connect
 
 Feel free to connect with me:  
-🌐 Website: https://lakhveerbawa.com/ :contentReference[oaicite:7]{index=7}  
+🌐 Website: https://lakhveerbawa.com/  
 📧 lakhveerbawa121@gmail.com 
-💼 LinkedIn: [(Add link) ](https://www.linkedin.com/in/lakhbawa/) 
+💼 LinkedIn: [linkedin.com/in/lakhbawa](https://www.linkedin.com/in/lakhbawa/) 
 
 ---
 
