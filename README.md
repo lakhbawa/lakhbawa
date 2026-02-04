@@ -53,8 +53,8 @@ PostgreSQL · MySQL · Redis · MongoDB
 AWS · DigitalOcean · Git · GitHub Actions · Traefik · Nginx
 
 ---
-https://github-readme-streak-stats.herokuapp.com
-## 📊 GitHub Activity
+
+## 📊 GitHub Activity (Public Repositories Only)
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakhbawa&theme=default)
 
