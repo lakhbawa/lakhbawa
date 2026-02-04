@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Microservices Architect**
 
-I build scalable, production-ready systems with a focus on microservices architecture, event-driven design, and clean code. With 9+ years of experience, I've built platforms serving millions of users and processing hundreds of thousands of daily transactions.
+I build scalable, production-ready systems with a focus on microservices architecture, event-driven design, and clean code. With 6+ years of experience, I've built platforms serving millions of users and processing hundreds of thousands of daily transactions.
 
 📍 Ontario, Canada  
 🌐 [lakhveerbawa.com](https://lakhveerbawa.com)
@@ -34,13 +34,13 @@ Distributed video workflow engine with multi-language backend:
 ## 🛠️ Technical Expertise
 
 **Languages**  
-TypeScript · JavaScript · PHP · Python · Go · Ruby
+TypeScript · JavaScript · PHP · Python · Go · Node.Js
 
 **Backend Frameworks**  
 NestJS · FastAPI · Laravel · Express.js · Ruby on Rails · Gin
 
 **Frontend**  
-React · Vue.js · Nuxt.js · Next.js · Vuetify
+React · Vue.js · Nuxt.js · Next.js · Vuetify · Tailwind 
 
 **Architecture & DevOps**  
 Microservices · Event-Driven Architecture · Docker · Kubernetes · CI/CD  
@@ -53,12 +53,12 @@ PostgreSQL · MySQL · Redis · MongoDB
 AWS · DigitalOcean · Git · GitHub Actions · Traefik · Nginx
 
 ---
-
+https://github-readme-streak-stats.herokuapp.com
 ## 📊 GitHub Activity
 
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhbawa&show_icons=true&theme=radical&count_private=true)
+[![Deep's GitHub stats](https://github-readme-streak-stats.herokuapp.com/api?username=lakhbawa&show_icons=true&theme=radical&count_private=true)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakhbawa&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhbawa&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhbawa&layout=compact&theme=radical)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakhbawa&theme=default)
 
 ---
 
