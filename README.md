@@ -56,9 +56,9 @@ AWS · DigitalOcean · Git · GitHub Actions · Traefik · Nginx
 https://github-readme-streak-stats.herokuapp.com
 ## 📊 GitHub Activity
 
-[![Deep's GitHub stats](https://github-readme-streak-stats.herokuapp.com/api?username=lakhbawa&show_icons=true&theme=radical&count_private=true)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakhbawa&theme=github_dark)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakhbawa&theme=default)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhbawa&layout=compact&theme=radical)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakhbawa&theme=default)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakhbawa&theme=default)
 
 ---
 
