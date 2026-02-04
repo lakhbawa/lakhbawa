@@ -1,61 +1,108 @@
-# 👋 Hi, I’m Lakh Bawa
+# 👋 Hi, I'm Lakh Bawa
 
-**Software Engineer | Full-Stack Developer | Open-Source Enthusiast**
+**Full-Stack Software Engineer | Microservices Architect**
 
-🚀 I build scalable web applications and tools that solve real problems, with a focus on clean architecture, strong testing, and meaningful collaboration.
+I build scalable, production-ready systems with a focus on microservices architecture, event-driven design, and clean code. With 9+ years of experience, I've built platforms serving millions of users and processing hundreds of thousands of daily transactions.
 
-🌍 Based in Ontario, Canada | 💻 Working from home  
-🔗 Website: https://lakhveerbawa.com/ :contentReference[oaicite:1]{index=1}
-
----
-
-## 🔭 What I’m Working On
-
-Here are some standout projects I’ve built and maintain:
-
-### ⭐ Featured Projects
-
-- **pinnacle** – Opinionated outcome-driven project management tool (NestJS, TypeScript, PostgreSQL, Kafka) :contentReference[oaicite:2]{index=2}  
-- **vidflow** – Backend + frontend for async video workflows (FastAPI, Go, Next.js) :contentReference[oaicite:3]{index=3}  
-- **nuxtjs-vue-vuetify-vue-test-utils-jest-sample-project** – Starter template with testing setup for Nuxt/Vue :contentReference[oaicite:4]{index=4}  
-- **laraveldock** – Docker-based Laravel development setup :contentReference[oaicite:5]{index=5}  
-- **realtor-saas** – Multi-tenant realtor SaaS with Filament and Stripe :contentReference[oaicite:6]{index=6}
-
-_(You can pin these on your GitHub profile for visibility)_
+📍 Ontario, Canada  
+🌐 [lakhveerbawa.com](https://lakhveerbawa.com)
 
 ---
 
-## 🧠 Skills & Technologies
+## 🚀 What I'm Building
 
-**Languages:** TypeScript • JavaScript • PHP • Python  
-**Frameworks:** NestJS • FastAPI • Laravel • Vue/Nuxt.js  
-**Tools:** Docker • GitHub Actions • gRPC • Kafka • Redis • PostgreSQL  
-**Dev Practices:** Testing • CI/CD • Clean Architecture
+### **Pinnacle** - *Microservices-Based Project Management Platform*
+A production-ready SaaS platform showcasing enterprise-grade architecture:
+- **Backend:** Go API Gateway, NestJS microservices, PostgreSQL, Redis
+- **Event-Driven:** Kafka message broker with gRPC inter-service communication
+- **Frontend:** React with real-time collaboration features
+- **Infrastructure:** Docker, Traefik reverse proxy, multi-tenant architecture
 
----
+[View Project →](https://github.com/lakhbawa/pinnacle)
 
-## 📊 GitHub Stats
+### **VidFlow** - *Asynchronous Video Processing Platform*
+Distributed video workflow engine with multi-language backend:
+- FastAPI and Go (Gin) for high-performance processing
+- Redis Streams for distributed task coordination
+- Next.js + TypeScript frontend
+- PostgreSQL with optimized query patterns
 
-<!-- GitHub Readme Stats -->
-![Lakh Bawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhbawa&show_icons=true&theme=radical)
-
----
-
-## 📫 How to Connect
-
-Feel free to connect with me:  
-🌐 Website: https://lakhveerbawa.com/ :contentReference[oaicite:7]{index=7}  
-📧 lakhveerbawa121@gmail.com 
-💼 LinkedIn: [(Add link) ](https://www.linkedin.com/in/lakhbawa/) 
+[View Project →](https://github.com/lakhbawa/vidflow)
 
 ---
 
-## 🤝 Currently
+## 🛠️ Technical Expertise
 
-- Open to collaborations
-- Actively improving open-source footprint
-- Learning new patterns and performance optimization
+**Languages**  
+TypeScript · JavaScript · PHP · Python · Go · Ruby
+
+**Backend Frameworks**  
+NestJS · FastAPI · Laravel · Express.js · Ruby on Rails · Gin
+
+**Frontend**  
+React · Vue.js · Nuxt.js · Next.js · Vuetify
+
+**Architecture & DevOps**  
+Microservices · Event-Driven Architecture · Docker · Kubernetes · CI/CD  
+API Gateway · Message Queues (Kafka, RabbitMQ) · gRPC · REST · GraphQL
+
+**Databases**  
+PostgreSQL · MySQL · Redis · MongoDB
+
+**Cloud & Tools**  
+AWS · DigitalOcean · Git · GitHub Actions · Traefik · Nginx
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## 📊 GitHub Activity
+
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhbawa&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhbawa&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Building **Pinnacle** with microservices best practices
+- 📚 Deep diving into system design patterns and distributed systems
+- 🎯 Preparing for senior engineering roles at top tech companies
+- 🌱 Contributing to open-source projects
+
+---
+
+## 🌟 Notable Projects
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| [pinnacle](https://github.com/lakhbawa/pinnacle) | Microservices project management platform | NestJS, Go, Kafka, gRPC, PostgreSQL | ⭐ 1 |
+| [vidflow](https://github.com/lakhbawa/vidflow) | Async video processing engine | FastAPI, Go, Next.js, Redis | ⭐ 1 |
+| [nuxtjs-jest-sample](https://github.com/lakhbawa/nuxtjs-vue-vuetify-vue-test-utils-jest-sample-project) | Testing setup for Nuxt/Vue | Vue, Nuxt, Jest, Vuetify | ⭐ 23 |
+| [laraveldock](https://github.com/lakhbawa/laraveldock) | Laravel Docker development setup | Docker, PHP, Laravel | ⭐ 3 |
+| [realtor-saas](https://github.com/lakhbawa/realtor-saas) | Multi-tenant realtor platform | Laravel, Filament, Stripe | 🆕 |
+
+---
+
+## 📫 Let's Connect
+
+💌 **Email:** [lakhveerbawa121@gmail.com](mailto:lakhveerbawa121@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/lakhbawa](https://www.linkedin.com/in/lakhbawa)  
+🌐 **Website:** [lakhveerbawa.com](https://lakhveerbawa.com)
+
+---
+
+## 💡 Philosophy
+
+> "Great software is built on great architecture. Great architecture is built on understanding trade-offs."
+
+I believe in writing code that's not just functional, but maintainable, testable, and scalable. Every project is an opportunity to learn, improve, and share knowledge with the community.
+
+---
+
+<div align="center">
+
+**Open to interesting projects and collaborations!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=lakhbawa&color=blueviolet)
+
+</div>
