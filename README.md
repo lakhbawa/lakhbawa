@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakh Bawa
 
-**Full-Stack Software Engineer | Microservices Architect**
+**Full-Stack Software Engineer | Software Architect | Microservices Architect**
 
 I build scalable, production-ready systems with a focus on microservices architecture, event-driven design, and clean code. With 6+ years of experience, I've built platforms serving millions of users and processing hundreds of thousands of daily transactions.
 
@@ -66,7 +66,6 @@ https://github-readme-streak-stats.herokuapp.com
 
 - 🔨 Building **Pinnacle** with microservices best practices
 - 📚 Deep diving into system design patterns and distributed systems
-- 🎯 Preparing for senior engineering roles at top tech companies
 - 🌱 Contributing to open-source projects
 
 ---
