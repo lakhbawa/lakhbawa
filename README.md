@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakh Bawa
 
-**Full-Stack Software Engineer | Software Architect | Microservices Architect**
+**Senior Full-Stack Software Engineer | Software Architect | Microservices Architect**
 
 I build scalable, production-ready systems with a focus on microservices architecture, event-driven design, and clean code. With several years of experience, I've built platforms serving millions of users and processing hundreds of thousands of daily transactions.
 
